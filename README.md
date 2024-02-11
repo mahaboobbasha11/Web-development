@@ -22,8 +22,6 @@ Responsive Design: The website is designed to be responsive, ensuring optimal vi
 
 Accessibility: The website adheres to accessibility standards, making it usable for individuals with disabilities. This includes features such as keyboard navigation, alt text for images, and proper semantic markup.
 
-Social Media Integration: Links to the restaurant's social media profiles (e.g., Facebook, Instagram (demo)) are included, allowing users to stay connected and engaged with the restaurant's updates, promotions, and events.
-
 This project will be hosted on GitHub, allowing for easy access, collaboration, and version control. It serves as a portfolio piece for demonstrating front-end development skills, including HTML, CSS, JavaScript, and potentially frameworks like Bootstrap or React.js. Additionally, it provides an opportunity to explore design principles, user experience considerations, and responsive web development techniques.
 
 
